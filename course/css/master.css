@@ -1,0 +1,16 @@
+.header
+{
+    min-height: 100px;
+    width: 50%;
+    background-color: blanchedalmond;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 3px solid #E8D46F;
+}
+
+.header .title {
+    text-align: center;
+    color: blueviolet;
+    text-shadow: 1px 1px 0px #000;
+}
