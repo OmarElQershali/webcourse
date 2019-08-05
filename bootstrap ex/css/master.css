@@ -13,7 +13,7 @@ body{
   background-size: cover;
 }
 .header .edit {
-  padding-top: 249px;
+  padding-top: 233px;
   color: #fff !important;
 }
 .header .title{
@@ -58,3 +58,46 @@ body{
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
   color: #4CAF50;
 }
+/*End Navbar*/
+/*Start About us */
+.About{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background: #dddddd52;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.About p{
+  color: #888080;
+}
+/*End About*/
+/*Start skills  */
+.skills{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+}
+.skills .progress{
+  margin-bottom: 5px;
+  margin-top: 5px;
+  height: 20px;
+  border-radius: 0;
+  
+}
+.skills .progress .progress-bar{
+  background: #4CAF50;
+}
+/*End skills  */
+/*Start reusme  */
+.resume{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background: #dddddd52;
+}
+/*End reusme  */
+/*Start portfillo  */
+.portfillo img{
+  margin-bottom: 30px;
+}
+/*End portfillo  */
