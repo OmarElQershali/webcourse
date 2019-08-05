@@ -1,0 +1,60 @@
+/*Start body*/
+body{
+  height: 10000px;
+}
+
+/* End Body*/
+
+/*Start header*/
+.header{
+  width: 100%;
+  height: 579px;
+  background: url(../images/slider.jpg) no-repeat fixed;
+  background-size: cover;
+}
+.header .edit {
+  padding-top: 249px;
+  color: #fff !important;
+}
+.header .title{
+  border-top: 5px solid #fff;
+  width: 35%;
+  border-bottom: 5px solid #fff;
+  margin: auto;
+}
+.header .btn{
+  margin-top: 30px;
+  background: #f0f8ff00;
+  color: #fff;
+  font-weight: bolder;
+  border: 2px solid;
+  padding: 8px 28px;
+  border-radius: 0;
+}
+
+/*End header*/
+
+/*Start Navbar*/
+.navbar{
+  background-color: black !important;
+}
+.navbar .navbar-brand{
+  color: #fff;
+  font-weight: bold;
+}
+.navbar .navbar-brand:hover{
+  color: #fff;
+}
+.navbar-brand span {
+  color: #4CAF50;
+}
+.navbar .navbar-nav .nav-link{
+  color: #fff;
+  font-weight: bold;
+}
+.navbar .navbar-nav .nav-link:hover{
+  color: #4CAF50;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+  color: #4CAF50;
+}

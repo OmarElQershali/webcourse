@@ -40,3 +40,21 @@ ul {
     margin-top: 20px;
     padding: 20px;
   }
+
+  .c1{
+    width: 50%;
+    height: 20px;
+    background: #ddd;
+    /* padding: 10px; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+  }
+  .c1 .c2{
+    width: 30%;
+    height: 20px;
+    background: green;
+  }
+  .c1 .c2 .c3{
+        text-align: center;
+  }
